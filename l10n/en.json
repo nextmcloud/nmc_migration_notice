@@ -1,0 +1,10 @@
+{ "translations": {
+    "Show migration notice" : "Show migration notice",
+    "Important notice" : "Important notice",
+    "Contractual changes to your Inclusive offer" : "Contractual changes to your Inclusive offer",
+    "The Terms and Conditions for your Inclusive offer have changed. Please open Telekom Mail and follow the instructions provided there to accept the updated Terms and Conditions." : "The Terms and Conditions for your Inclusive offer have changed. Please open Telekom Mail and follow the instructions provided there to accept the updated Terms and Conditions.",
+    "If you do not accept the updated Terms and Conditions within the specified period, your MagentaCLOUD account may be deleted." : "If you do not accept the updated Terms and Conditions within the specified period, your MagentaCLOUD account may be deleted.",
+    "Open Telekom Mail" : "Open Telekom Mail",
+    "Remind me later" : "Remind me later"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
