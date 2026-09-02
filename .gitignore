@@ -13,3 +13,4 @@ tests/.phpunit.result.cache
 /js/**/*.mjs.map
 /js/**/*.mjs.map.license
 /dist/
+node_modules
