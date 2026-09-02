@@ -1,0 +1,10 @@
+{ "translations": {
+    "Show migration notice" : "Migrationshinweis anzeigen",
+    "Important notice" : "Wichtiger Hinweis",
+    "Contractual changes to your Inclusive offer" : "Vertragliche Änderungen zu Ihrem Inklusiv-Angebot",
+    "The Terms and Conditions for your Inclusive offer have changed. Please open Telekom Mail and follow the instructions provided there to accept the updated Terms and Conditions." : "Die Allgemeinen Geschäftsbedingungen für Ihr Inklusiv-Angebot haben sich geändert. Bitte öffnen Sie Telekom Mail und folgen Sie den dort bereitgestellten Anweisungen, um den aktualisierten AGB zuzustimmen.",
+    "If you do not accept the updated Terms and Conditions within the specified period, your MagentaCLOUD account may be deleted." : "Wenn Sie den aktualisierten AGB nicht innerhalb des angegebenen Zeitraums zustimmen, kann Ihr MagentaCLOUD-Konto gelöscht werden.",
+    "Open Telekom Mail" : "Telekom Mail öffnen",
+    "Remind me later" : "Später erinnern"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

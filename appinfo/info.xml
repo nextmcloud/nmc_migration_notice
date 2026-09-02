@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>nmc_migration_notice</id>
+    <name>MagentaCLOUD Migration Notice</name>
+    <summary>Non-blocking notice informing migrated Inclusive users about updated Terms and Conditions</summary>
+    <description><![CDATA[Shows a non-blocking popup that informs migrated Inclusive users that they need to accept the updated Terms and Conditions via Telekom Mail.]]></description>
+    <version>0.1.0</version>
+    <licence>agpl</licence>
+    <author mail="iamsusukichan@gmail.com">T-Systems International</author>
+    <namespace>NMC_Migration_Notice</namespace>
+    <category>tools</category>
+    <dependencies>
+        <nextcloud min-version="30" max-version="34"/>
+    </dependencies>
+</info>
