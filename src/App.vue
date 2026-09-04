@@ -6,6 +6,7 @@
 		size="normal"
 		:has-next="false"
 		:has-previous="false"
+		:close-on-click-outside="false"
 		label-id="nmc-migration-notice-title"
 		@close="close">
 		<div class="migration-notice__content">
@@ -92,6 +93,10 @@ export default {
 #nmc_migration_notice .modal-container__close {
 	top: 1.5rem !important;
 	right: 1rem !important;
+}
+
+#nmc_migration_notice .modal-container {
+	padding: 0 !important;
 }
 </style>
 
